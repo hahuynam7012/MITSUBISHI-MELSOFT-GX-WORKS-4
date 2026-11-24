@@ -1,0 +1,10 @@
+MELSOFT GXWORKS 4 (PowerShell WinForms Ladder Editor)
+
+- Xay dung giao dien WinForms 3 vung: ToolStrip tren cung, TreeView dieu huong ben trai, vung ve Ladder va nhap lenh ben phai.
+- Gan icon ung dung tu file gxwork4-logo.ico.
+- Chinh kich thuoc SplitContainer (SplitterDistance = 400) an toan trong su kien Form.Shown de tranh loi Panel2MinSize.
+- Ho tro ve rung line va ky hieu NO, NC, COIL qua su kien Paint; chon o bang chuot va nhap lenh LD, LDI, OUT, NOP.
+- Them dialog chon Target Device (FX3U, FX5U, Q Series, L Series, R Series) bang ComboBox DropDownList.
+- Them chuc nang Compile kiem tra dia chi thiet bi, vi tri Coil, rung thieu Coil va trung Coil; hien thi ket qua o khung Output.
+- Them chuc nang xoa rung thua (Delete Rung, Clean NOP) va cap nhat lai cay Rungs + luoi ve.
+- Them ContextMenuStrip chuot phai cho Ladder Canvas va TreeView.
